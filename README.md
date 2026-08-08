@@ -10,7 +10,7 @@
 ### 🌟 **About Me**
 I’m Ashish Chaudhari, a B.Tech Computer Science graduate and aspiring Data Analyst with hands-on experience in SQL, Python, Power BI, and Excel. I enjoy working with data to uncover insights, identify trends, and support data-driven decision-making. Through projects involving data analysis, visualization, and dashboard development, I’ve strengthened my analytical and problem-solving skills. I’m currently looking for an entry-level opportunity where I can apply my skills, solve real-world business problems, and continue growing as a data professional.
 
---
+---
 
 ### 🛠️ Skills
 
@@ -47,19 +47,7 @@ I’m Ashish Chaudhari, a B.Tech Computer Science graduate and aspiring Data Ana
   <img src="https://img.shields.io/badge/Dashboarding-20B2AA?style=for-the-badge" />
 </p>
 
-# 📊 GitHub Stats:
-<div align="center">
-
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashish-Chaudhari3&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashish-Chaudhari3&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashish-Chaudhari3&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashish-Chaudhari3&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashish-Chaudhari3&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=Ashish-Chaudhari3&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish-Chaudhari3&theme=radical">
-
-</div>
-
+---
 <!-- Snake Game Repo View -->
 
 <div align="center">
