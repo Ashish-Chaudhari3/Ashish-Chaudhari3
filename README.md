@@ -2,15 +2,15 @@
 <h3 align="center">🤖 Data Analyst | Turning Data into Insights 🚀</h3>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt4bGx0NjEweWZtczJtbWtxdWptd29tdnI1cjNuZHByaWhxOHhkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gwwg7fBSUQ6WmpjKEo/giphy.gif" width="30%"/>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Bzc2x6aDE1amE1NTY3OXZvZHBkbnl4M3RxeDRmdnlka2VvOWRweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" width="54%"/>
-  <img src=""/>
+  <img src="https://github.com/Ashish-Chaudhari3/Ashish-Chaudhari3/blob/main/tumblr_owi25v6uAo1r4gsiio1_1280_gif%20(1000%C3%97300).gif"/>
 </p>
 
 ---
 
 ### 🌟 **About Me**
 I’m Ashish Chaudhari, a B.Tech Computer Science graduate and aspiring Data Analyst with hands-on experience in SQL, Python, Power BI, and Excel. I enjoy working with data to uncover insights, identify trends, and support data-driven decision-making. Through projects involving data analysis, visualization, and dashboard development, I’ve strengthened my analytical and problem-solving skills. I’m currently looking for an entry-level opportunity where I can apply my skills, solve real-world business problems, and continue growing as a data professional.
+
+--
 
 ### 🛠️ Skills
 
