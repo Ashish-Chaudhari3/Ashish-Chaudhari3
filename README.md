@@ -1,4 +1,14 @@
-# 💫 Hi 👋, I'm Ashish Chaudhari
+<h1 align="center">Hi 👋, I'm Ashish Chaudhari</h1>
+<h3 align="center">🤖 Data Analyst | Turning Data into Insights 🚀</h3>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt4bGx0NjEweWZtczJtbWtxdWptd29tdnI1cjNuZHByaWhxOHhkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gwwg7fBSUQ6WmpjKEo/giphy.gif" width="30%"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Bzc2x6aDE1amE1NTY3OXZvZHBkbnl4M3RxeDRmdnlka2VvOWRweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" width="54%"/>
+</p>
+
+---
+
+### 🌟 **About Me**
 I’m Ashish Chaudhari, a B.Tech Computer Science graduate and aspiring Data Analyst with hands-on experience in SQL, Python, Power BI, and Excel. I enjoy working with data to uncover insights, identify trends, and support data-driven decision-making. Through projects involving data analysis, visualization, and dashboard development, I’ve strengthened my analytical and problem-solving skills. I’m currently looking for an entry-level opportunity where I can apply my skills, solve real-world business problems, and continue growing as a data professional.
 
 
@@ -25,12 +35,5 @@ I’m Ashish Chaudhari, a B.Tech Computer Science graduate and aspiring Data Ana
 </div>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishchaudhari03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aa8903100@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishchaudhari03) [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://ashish-work.lovable.app/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aa8903100@gmail.com) 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
----
-[![](https://komarev.com/ghpvc/?username=Ashish-Chaudhari3&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
